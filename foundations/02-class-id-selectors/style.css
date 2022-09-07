@@ -1,0 +1,15 @@
+.odd{
+    background-color: #ffcccb;
+    font-family: Verdana, "DejaVu Sans", "sans-serif";
+}
+#title{
+    color: blue;
+    font-size: 36px;
+}
+.evidence{
+    font-size: 24px;
+}
+.flashy{
+    background-color: #90ee90;
+    font-weight: bold;
+}
